@@ -1,0 +1,2 @@
+select distinct phone_name_details
+from jumia_sales_staging
