@@ -1,2 +1,23 @@
-# Data-Analysis_Smartphone-Project
-This project is an extensive research involving Excel, SQL and Power BI, where the choice of a suitable smartphone of was made. 
+# Data-Driven Smartphone Selection: A Jumia Market Analysis
+## Description
+This project applies Excel, SQL, and Power BI to analyze smartphone listings from Jumia Nigeria, evaluate pricing and specifications, and identify the most suitable smartphone options based on budget, RAM, ROM, brand availability, and value for money. The analysis transforms raw product data into actionable insights to support informed, data-driven purchasing decisions.
+
+
+## TABLE OF CONTENTS
+
+
+## PROJECT SCOPE
+
+## DATA IDENTIFICATION
+
+## DATA ACQUISITION & PREPARATION
+
+## VISUALIZATION
+
+## ANALYSIS
+
+## RECOMMENDATIONS
+
+## CONCLUSION
+
+
