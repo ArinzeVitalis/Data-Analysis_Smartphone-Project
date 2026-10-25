@@ -200,16 +200,34 @@ We have about 35 different Phone brands in the phone listing
 <br>
 
 <ins>2.	Top 5 brands in the listing</ins>
+
 ![Top 5 brands in the listing](assets/images/Top 5 Brands.png)
 <br>
 
+
 <ins>3.	Phone RAM in the category (less than or equal to 450k)</ins>
+
 ![Phone RAM in the category (less than or equal to 450k)](assets/images/Phone RAM (within 450k).png)
 <br>
 
+
 <ins>4.	Phone ROM in the category (less than or equal to 450k)</ins>
+
 ![Phone ROM in the category (less than or equal to 450k)](assets/images/Phone ROM (within 450k).png)
 <br>
+
+
+<ins>5.	Phones with the best value for money</ins> in terms of Brand, ROM and RAM. To investigate this, we will look into the following;
+
+- Only phones from the Top 5 brands will be considered.
+        - Samsung
+        - Apple
+        - Tecno
+        - Infinix
+        - Xiaomi
+- Given the availability of higher ROMs, it won’t be financially wise to look into lower ones such as 64GB & 32GB. Therefore, we’ll be focusing on 128GB, 256GB and 512GB.
+- Likewise, we won’t be looking into RAMs within the range of 2-6 GB. Rather we’ll focus on 8GB, 16GB and 24GB.
+
 
 <br>
 
