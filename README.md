@@ -186,8 +186,12 @@ For this analysis, we need to focus on the following questions;
   5.	Which phones give the best value for money in terms of Brand, ROM and RAM?
 
 From our Dataset, we have;
-  1.	Phones brands listed
+Phones brands listed
 We have about 35 different Phone brands in the phone listing
+
+![Phones brands listed](assets/images/Distinct Brand names 1.png)
+![Phones brands listed](assets/images/Distinct Brand names 2.png)
+<br>
 
 
 <br>
