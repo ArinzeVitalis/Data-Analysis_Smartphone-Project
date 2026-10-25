@@ -11,8 +11,21 @@ This project applies Excel, SQL, and Power BI to analyze smartphone listings fro
   - [Data Requirements & Sources](Data Requirements & Sources)
   - [Availability & Compliance Checks](#Availability & Compliance Checks)
 - #### [Data Acquisition & Extraction](#Data Acquisition & Extraction)
-  - [Data Exploration](#Collection & Extraction)
-  - [Objective](#objective)
+  - [Collection & Extraction](#Collection & Extraction)
+  - [Data Exploration](#Data Exploration)
+  - [Data Cleaning](#Data Cleaning)
+  - [Validation & Quality Checks](#Validation & Quality Checks)
+- #### [Visualization](#Visualization)
+  - [Results](#Results)
+  - [DAX Measures](#DAX Measures)
+- #### [Analysis](#Analysis)
+  - [Exploratory Data Analysis](#Exploratory Data Analysis)
+  - [Discovery](#Discovery)
+- #### [Recommendations](#Recommendations)
+  - [Potential Courses of Action](#Potential Courses of Action)
+  - [Estimated Impact of Choice](#Estimated Impact of Choice)
+- #### [Conclusion](#Conclusion)
+
 
 
 ## PROJECT SCOPE
