@@ -50,6 +50,39 @@ With these, this our analytical project will be answering the following key ques
 
 
 ## DATA IDENTIFICATION
+### DATA SOURCE
+Since the purchase will be made from local stores in the country, we needed to a place where the prices of different phones are listed to give us an idea of what the prices might be. There are many sites that sell phone online, but for the safety, quality, accuracy and originality, we decided to use the most common or popular one, Jumia Online Stores. We will get the current phone listing from Jumia Official Website (www.jumia.com.ng).
+### DATA AVAILABILITY AND COMPLIANCE CHECKS
+We extracted 400+ rows of phone listing, which had;
+  •	Phone names
+  •	Brand names
+  •	Phone RAM
+  •	Phone ROM
+  •	Colour
+  •	Network strength
+  •	Battery strength
+  •	Seller store
+  •	Phone initial price
+  •	Discount
+  •	Phone price after discount
+  •	Rating reviews
+  •	Normal rating
+  •	Payment status
+  •	Carts
+  •	Promo status
+  •	Store
+
+What we need;
+  -	Phone names
+  -	Phone RAM
+  -	Phone ROM
+  -	Phone initial price
+  	Phone price after discount
+
+
+
+
+
 
 ## DATA ACQUISITION & PREPARATION
 
