@@ -270,6 +270,21 @@ Top 5 XIAOMI phones (below N450k)
 | INFINIX     | Infinix Note 40          | 229,920   | 256GB     | 8GB       |  
 | XIAOMI      | XIAOMI Redmi 15C         | 233,899   | 256GB     | 8GB       | 
 
+<br>
+
+  <INS>NB:</INS>There were 3 different listings of Infinix Note 40, so we used the average of the 3 of them.
+<br>
+
+### DISCOVERY
+
+We discovered that;
+
+    -	there are 35 unique phone brands listed
+    -	the top 5 brands include; Samsung, Apple, Tecno, Infinix and XIAOMI.
+    -	the maximum phone RAM across the Top 5 brands is 8GB.
+    -	the maximum phone ROMs across the Top 5 brands are 128GB & 256GB.
+    -	the cheapest amongst them is 229,920.
+
 
 
 <br>
