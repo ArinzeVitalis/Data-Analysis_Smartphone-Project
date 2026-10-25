@@ -79,6 +79,7 @@ What we need;
   -	Phone initial price
   -	Phone price after discount
 
+## DATA ACQUISITION & PREPARATION
 ### DATA COLLECTION
 We used Power Query to access the Jumia Official webpage to extract the data from the site.
 POWER QUERY CODE
@@ -135,15 +136,19 @@ And they’re all available.
 
 <ins>ROW COUNT</ins>
 ![ROW COUNT](assets/images/Cleaned data Row Count.png)
+First paragraph.
 
 <ins>COLUMN COUNT</ins>
 ![COLUMN COUNT](assets/images/Cleaned data Column Count.png)
+First paragraph.
 
 <ins>DATA TYPES CHECK</ins>
 ![DATA TYPES CHECK](assets/images/Cleaned data Datatype Check.png)
+First paragraph.
 
 <ins>DUPLICATE CHECK</ins>
 ![DUPLICATE CHECK]()
+First paragraph.
 
 
 
@@ -152,7 +157,6 @@ And they’re all available.
 
 
 
-## DATA ACQUISITION & PREPARATION
 
 ## VISUALIZATION
 
