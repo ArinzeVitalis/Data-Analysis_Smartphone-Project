@@ -2,6 +2,7 @@
 ## Description
 This project applies Excel, SQL, and Power BI to analyze smartphone listings from Jumia Nigeria, evaluate pricing and specifications, and identify the most suitable smartphone options based on budget, RAM, ROM, brand availability, and value for money. The analysis transforms raw product data into actionable insights to support informed, data-driven purchasing decisions.
 
+<br>
 
 ## TABLE OF CONTENTS
 - #### [Project Scope](#Project Scope)
@@ -154,20 +155,25 @@ And they’re all available.
 ![DUPLICATE CHECK]()
 <br>
 
-
-
-
-
-
-
-
+<br>
 
 ## VISUALIZATION
+<ins>RESULTS</ins>
+![RESULTS](assets/images/Jumia Smartphone Market Insights Dashboard.png)
+<br>
+
+<br>
 
 ## ANALYSIS
 
+<br>
+
 ## RECOMMENDATIONS
 
+<br>
+
 ## CONCLUSION
+
+<br>
 
 
