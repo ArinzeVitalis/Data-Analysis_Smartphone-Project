@@ -260,7 +260,7 @@ Top 5 XIAOMI phones (below N450k)
 
 <br>
 
-  Best value by brand
+    <ins>Best value by brand</ins>
 
 | Phone Brand | Phone Name               | Price (N) | Phone ROM | Phone RAM |
 | ----------- | ------------------------ | --------- | --------- |---------- |
@@ -285,11 +285,63 @@ We discovered that;
     -	the maximum phone ROMs across the Top 5 brands are 128GB & 256GB.
     -	the cheapest amongst them is 229,920.
 
-
-
 <br>
 
 ## RECOMMENDATIONS
+
+### POTENTIAL COURSES OF ACTION
+
+From our analysis, there are 4 possible recommendations:
+<br>
+
+<ins>FIRST CHOICE – Tecno Camon 40 CM5</ins>
+<br>
+<ins>Pros</ins>
+-	affordable
+-	common in the locale
+-	accessories are available and relatively cheap
+
+<ins>Cons</ins>
+-	capacity limited
+-	might overheat subsequently
+-	decent battery strength and capacity
+-	possible phone lags
+<br>
+
+<ins>SECOND CHOICE – Samsung Galaxy Note 10+</ins>
+<ins>Pros</ins>
+-	highly efficient
+-	durable
+-	accessories are available
+-	stable network
+	
+<ins>Cons</ins>
+-	accessories are quite very expensive (seriously consider)
+
+<ins>THIRD CHOICE – Infinix Note 40</ins>
+<ins>Pros</ins>
+-	affordable
+-	common in the locale
+-	accessories are available and relatively cheap
+
+<ins>Cons</ins>
+-	possible phone lags
+-	might overheat subsequently
+-	low durability
+-	decent battery strength and capacity
+
+<ins>FOURTH CHOICE – XIAOMI Redmi 15C</ins>
+<ins>Pros</ins>
+-	affordable
+-	fairly efficient
+
+<ins>Cons</ins>
+-	not common in the locale
+-	accessories are not easily available
+-	might overheat subsequently
+
+I’d personally recommend that this would be definitely the last choice. In fact, only if others are not found.
+
 
 <br>
 
