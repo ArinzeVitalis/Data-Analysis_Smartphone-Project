@@ -188,6 +188,7 @@ For this analysis, we need to focus on the following questions;
   3.	What are the RAM ranges of the phones under the price category (N300k – N450k)?
   4.	What are the ROM ranges of the phones under the price category (N300k – N450k)?
   5.	Which phones give the best value for money in terms of Brand, ROM and RAM?
+<br>
 
 From our Dataset, we have;
 
@@ -362,6 +363,13 @@ So, adding the expected N20k+, we have;
 <br>
 
 ## CONCLUSION
+
+This project successfully demonstrated how Excel, SQL, and Power BI can be used to transform raw smartphone listings into meaningful insights that support informed purchasing decisions. By analyzing 412 phone listings from Jumia, the project identified 35 smartphone brands and highlighted Samsung, Apple, Tecno, Infinix, and Xiaomi as the five most frequently listed brands. Further analysis focused on smartphones within the ₦300,000–₦450,000 budget range (or below 450k), prioritizing RAM, ROM, affordability, brand availability, and ease of sourcing accessories and spare parts.
+
+Based on the findings, the Tecno Camon 40 CM5 emerged as the first-choice recommendation, offering a balance of affordability, storage capacity, and local availability. The Samsung Galaxy Note 10+ was identified as an alternative for its perceived efficiency and durability, while the Infinix Note 40 and Xiaomi Redmi 15C provided additional options at competitive prices. The analysis also accounted for estimated additional offline purchasing costs, demonstrating the importance of considering the total cost of acquisition rather than online prices alone.
+
+Overall, this project highlights the value of data analytics in solving practical business and consumer problems. It demonstrates the application of data extraction, cleaning, validation, SQL querying, DAX measures, and visualization to produce actionable recommendations. Although prices, stock availability, and product specifications may change, the analytical approach provides a structured framework for comparing alternatives and making evidence-based purchasing decisions.
+
 
 <br>
 
