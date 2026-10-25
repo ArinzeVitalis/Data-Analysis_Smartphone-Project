@@ -158,13 +158,37 @@ And they’re all available.
 <br>
 
 ## VISUALIZATION
-<ins>RESULTS</ins>
+### RESULTS
 ![RESULTS](assets/images/Jumia Smartphone Market Insights Dashboard.png)
+<br>
+
+### DAX Meausres
+<ins>Average Phone Price</ins>
+![Average Phone Price]()
+<br>
+
+<ins>Total No of Phones</ins>
+![Total No of Phones]()
 <br>
 
 <br>
 
 ## ANALYSIS
+### EXPLORATORY DATA ANALYSIS
+<iins>Findings</ins>
+What did we find?
+
+For this analysis, we need to focus on the following questions;
+1.	How many phone brands do we have from the listing?
+2.	Which are the top 5 brands with the most (common) listing?
+3.	What are the RAM ranges of the phones under the price category (N300k – N450k)?
+4.	What are the ROM ranges of the phones under the price category (N300k – N450k)?
+5.	Which phones give the best value for money in terms of Brand, ROM and RAM?
+
+From our Dataset, we have;
+1.	Phones brands listed
+We have about 35 different Phone brands in the phone listing
+
 
 <br>
 
