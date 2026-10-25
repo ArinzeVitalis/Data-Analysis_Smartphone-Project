@@ -176,6 +176,7 @@ And they’re all available.
 ## ANALYSIS
 ### EXPLORATORY DATA ANALYSIS
 <ins>Findings</ins>
+
 What did we find?
 
 For this analysis, we need to focus on the following questions;
