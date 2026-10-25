@@ -260,7 +260,7 @@ Top 5 XIAOMI phones (below N450k)
 
 <br>
 
-    <ins>Best value by brand</ins>
+<ins>Best value by brand</ins>
 
 | Phone Brand | Phone Name               | Price (N) | Phone ROM | Phone RAM |
 | ----------- | ------------------------ | --------- | --------- |---------- |
@@ -341,6 +341,22 @@ From our analysis, there are 4 possible recommendations:
 -	might overheat subsequently
 
 I’d personally recommend that this would be definitely the last choice. In fact, only if others are not found.
+<br>
+
+### ESTIMATED IMPACT/CONSEQUENCES OF CHOICE
+
+Since the purchase will be offline, i.e., via a physical location or local retail shop, the following I to be considered;
+-	import fee or retailing fee (N10,000)
+-	higher prices (as a result of the locale) and lack of discounts (N10,000)
+
+So, adding the expected N20k+, we have;
+
+| Phone Brand | Phone Name               | Price (N) | New Price (N) |
+| ----------- | ------------------------ | --------- | ------------- |
+| TECNO       | Tecno Camon 40 CM5       | 244,800   | 264,800       |  
+| SAMSUNG     | Samsung Galaxy Note 10+  | 264,000   | 284,000       | 
+| INFINIX     | Infinix Note 40          | 229,920   | 249,920       | 
+| XIAOMI      | XIAOMI Redmi 15C         | 233,899   | 233,899       |
 
 
 <br>
