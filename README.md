@@ -4,9 +4,10 @@ This project applies Excel, SQL, and Power BI to analyze smartphone listings fro
 
 
 ## TABLE OF CONTENTS
-#### - [Project Scope](#project Scope)
-  - [Evaluation of Problem](Evaluation of Problem)
-  - [Objective](objective)
+- #### [Project Scope](#Project Scope)
+  - [Evaluation of Problem](#Evaluation of Problem)
+  - [Objective](#objective)
+- #### [Data Identification](#Data Identification)
 
 
 ## PROJECT SCOPE
