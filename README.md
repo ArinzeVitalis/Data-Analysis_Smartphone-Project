@@ -87,7 +87,8 @@ What we need;
 ## DATA ACQUISITION & PREPARATION
 ### DATA COLLECTION
 We used Power Query to access the Jumia Official webpage to extract the data from the site.
-POWER QUERY CODE
+
+
 '''
 POWER QUERY
 let
