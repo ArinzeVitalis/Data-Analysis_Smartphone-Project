@@ -77,7 +77,49 @@ What we need;
   -	Phone RAM
   -	Phone ROM
   -	Phone initial price
-  	Phone price after discount
+  -	Phone price after discount
+
+### DATA COLLECTION
+We used Power Query to access the Jumia Official webpage to extract the data from the site.
+POWER QUERY CODE
+'''
+let
+    Pages = List.Numbers(6, 25),
+    Tables = List.Transform(Pages, each fnJumiaPage(_)),
+    Combined = Table.Combine(Tables)
+in
+    Combined
+
+### DATA EPLORATION
+Data exploration notes;
+1.	Contains 412 rows
+2.	Has 10 columns 
+3.	Contains a lot of missing values in all columns except columns 1 & 2.
+4.	We will only be needing phone name, phone storage and processor (if available), phone price and company name. so other columns will be removed.
+5.	There was an OUKITEL Phone that has a 24GB RAM 256 ROM, yet, it was cheap. We investigated it and found out that it was a discount offer from one of the sellers.
+
+### DATA CLEANING NOTES
+1.	After exploring the already collected data with Excel, we pulled it into MySQL workbench for cleaning.
+2.	While the data was pulled in, we encountered several errors that prevented the data from being imported properly. We;
+    a.	Re-saved the file as ‘CSV UTF 8’ file.
+    b.	Changed the datatype of the columns to ‘VARCHAR’.
+This allowed for smooth loading of the table.
+3.	We added the following columns;
+    a)	brand_name (represents the phone brand)
+    b)	phone_name (each phones name only) – trimmed to maximum of 30 characters.
+    c)	phone_ROM (each phone’s ROM if available)
+    d)	phone_RAM (each phone’s RAM if available)
+    e)	row_id (to make each row unique)
+4.	We have about 412 rows of phone listings from different stores (sellers). But during deduplication, we keep getting some listed as duplicates despite rating_reviews showing different ratings (pertaining to the seller). So, we decided to identify each row with a store name. Since the objective is to get the best phone as regards the Phone name, brand, price, RAM and ROM, we carried on despite the fact that different phones can be listed by the same seller or store.
+We used the following code:
+
+5.	We removed any row which any of these columns were not containing any value;
+    a)	brand_name
+    b)	phone_RAM
+    c)	phone_ROM
+
+6.	The extracted columns and rows in the data were placed in an SQL view, known as view_cleaned_jumia_phones.
+
 
 
 
