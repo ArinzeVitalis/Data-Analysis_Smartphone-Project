@@ -130,9 +130,20 @@ We need the following columns for our analysis;
 5.	phone_ROM
 6.	phone_RAM
 And they’re all available.
-We’ll be performing the following validity and compliance checks;
 
-![ROW COUNT](assets/images/Cleaned data Datatype Check.png)
+#### We’ll be performing the following validity and compliance checks;
+
+<ins>ROW COUNT</ins>
+![ROW COUNT](assets/images/Cleaned data Row Count.png)
+
+<ins>COLUMN COUNT</ins>
+![COLUMN COUNT](assets/images/Cleaned data Column Count.png)
+
+<ins>DATA TYPES CHECK</ins>
+![DATA TYPES CHECK](assets/images/Cleaned data Datatype Check.png)
+
+<ins>DUPLICATE CHECK</ins>
+![DUPLICATE CHECK]()
 
 
 
