@@ -178,7 +178,7 @@ We ran a duplicate check on the main table (jumia_phone_staging) where we confir
 
 ## ANALYSIS
 ### EXPLORATORY DATA ANALYSIS
-<ins>Findings</ins>
+<ins>FINDINGSs</ins>
 
 What did we find?
 
@@ -227,6 +227,35 @@ We have about 35 different Phone brands in the phone listing
         - Xiaomi
 - Given the availability of higher ROMs, it won’t be financially wise to look into lower ones such as 64GB & 32GB. Therefore, we’ll be focusing on 128GB, 256GB and 512GB.
 - Likewise, we won’t be looking into RAMs within the range of 2-6 GB. Rather we’ll focus on 8GB, 16GB and 24GB.
+
+
+Top 5 Samsung phones (below N450k)
+
+![Top 5 Samsung phones (below N450k)](assets/images/Top 5 Samsung phones (below N450k).png)
+<br>
+
+Top 5 Apple phones (below N450k)
+
+There are no Apple phones below 450k phone RAMs of 8GB and higher, or phone ROMs of 128GB and higher.
+<br>
+
+Top 5 Tecno phones (below N450k)
+
+![Top 5 Tecno phones (below N450k)](assets/images/Top 5 Tecno phones (below N450k).png)
+<br>
+
+Top 5 Infinix phones (below N450k)
+
+![Top 5 Infinix phones (below N450k)](assets/images/Top 5 Inifinix phones (below N450k).png)
+<br>
+
+Top 5 XIAOMI phones (below N450k)
+
+![Top 5 XIAOMI phones (below N450k)](assets/images/Top 5 XIAOMI phones (below N450k).png)
+<br>
+
+  Best value by brand
+
 
 
 <br>
