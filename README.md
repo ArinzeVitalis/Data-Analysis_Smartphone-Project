@@ -28,6 +28,9 @@ This project applies Excel, SQL, and Power BI to analyze smartphone listings fro
 
 
 
+
+
+
 ## PROJECT SCOPE
 ### EVALUATION OF PROBLEM
 A friend is asking for recommendations on a possible choice of phone. The key or core features that she’s looking for in the phone are RAM (Phone processor) and ROM (Phone Memory). She has a budget of N300k – N450k to make the purchase. Also, she wants a brand that is common that the spare parts can be easily sourced in the case of phone damage and repair.
@@ -46,8 +49,7 @@ With these, this our analytical project will be answering the following key ques
 4.	What are the ROM ranges of the phones under the price category (N300k – N450k)?
 5.	Which phones give the best value for money in terms of Brand, ROM and RAM? 
 
-
-
+<br>
 
 ## DATA IDENTIFICATION
 ### DATA SOURCE
@@ -78,6 +80,8 @@ What we need;
   -	Phone ROM
   -	Phone initial price
   -	Phone price after discount
+
+<br>
 
 ## DATA ACQUISITION & PREPARATION
 ### DATA COLLECTION
@@ -136,19 +140,19 @@ And they’re all available.
 
 <ins>ROW COUNT</ins>
 ![ROW COUNT](assets/images/Cleaned data Row Count.png)
-First paragraph.
+<br>
 
 <ins>COLUMN COUNT</ins>
 ![COLUMN COUNT](assets/images/Cleaned data Column Count.png)
-First paragraph.
+<br>
 
 <ins>DATA TYPES CHECK</ins>
 ![DATA TYPES CHECK](assets/images/Cleaned data Datatype Check.png)
-First paragraph.
+<br>
 
 <ins>DUPLICATE CHECK</ins>
 ![DUPLICATE CHECK]()
-First paragraph.
+<br>
 
 
 
