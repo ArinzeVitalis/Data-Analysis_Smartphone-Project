@@ -227,34 +227,48 @@ We have about 35 different Phone brands in the phone listing
         - Xiaomi
 - Given the availability of higher ROMs, it won’t be financially wise to look into lower ones such as 64GB & 32GB. Therefore, we’ll be focusing on 128GB, 256GB and 512GB.
 - Likewise, we won’t be looking into RAMs within the range of 2-6 GB. Rather we’ll focus on 8GB, 16GB and 24GB.
+<br>
 
 
 Top 5 Samsung phones (below N450k)
 
 ![Top 5 Samsung phones (below N450k)](assets/images/Top 5 Samsung phones (below N450k).png)
+
 <br>
 
 Top 5 Apple phones (below N450k)
 
 There are no Apple phones below 450k phone RAMs of 8GB and higher, or phone ROMs of 128GB and higher.
+
 <br>
 
 Top 5 Tecno phones (below N450k)
 
 ![Top 5 Tecno phones (below N450k)](assets/images/Top 5 Tecno phones (below N450k).png)
+
 <br>
 
 Top 5 Infinix phones (below N450k)
 
 ![Top 5 Infinix phones (below N450k)](assets/images/Top 5 Inifinix phones (below N450k).png)
+
 <br>
 
 Top 5 XIAOMI phones (below N450k)
 
 ![Top 5 XIAOMI phones (below N450k)](assets/images/Top 5 XIAOMI phones (below N450k).png)
+
 <br>
 
   Best value by brand
+
+| Phone Brand | Phone Name               | Price (N) | Phone ROM | Phone RAM |
+| ----------- | ------------------------ | --------- | --------- |---------- |
+| SAMSUNG     | Samsung Galaxy Note 10+  | 264,000   | 256GB     | 8GB       |  
+| APPLE       | null                     | null      | null      | null      |  
+| TECNO       | Tecno Camon 40 CM5       | 244,800   | 256GB     | 8GB       |  
+| INFINIX     | Infinix Note 40          | 229,920   | 256GB     | 8GB       |  
+| XIAOMI      | XIAOMI Redmi 15C         | 233,899   | 256GB     | 8GB       | 
 
 
 
