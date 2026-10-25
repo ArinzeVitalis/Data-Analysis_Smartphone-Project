@@ -132,7 +132,7 @@ We need the following columns for our analysis;
 And they’re all available.
 We’ll be performing the following validity and compliance checks;
 
-![ROW COUNT]()
+![ROW COUNT](assets/images/Cleaned data Datatype Check.png)
 
 
 
