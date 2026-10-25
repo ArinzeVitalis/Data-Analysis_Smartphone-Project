@@ -83,12 +83,14 @@ What we need;
 We used Power Query to access the Jumia Official webpage to extract the data from the site.
 POWER QUERY CODE
 '''
+POWER QUERY
 let
     Pages = List.Numbers(6, 25),
     Tables = List.Transform(Pages, each fnJumiaPage(_)),
     Combined = Table.Combine(Tables)
 in
     Combined
+'''
 
 ### DATA EPLORATION
 Data exploration notes;
@@ -101,24 +103,37 @@ Data exploration notes;
 ### DATA CLEANING NOTES
 1.	After exploring the already collected data with Excel, we pulled it into MySQL workbench for cleaning.
 2.	While the data was pulled in, we encountered several errors that prevented the data from being imported properly. We;
-    a.	Re-saved the file as ‘CSV UTF 8’ file.
-    b.	Changed the datatype of the columns to ‘VARCHAR’.
+    -	Re-saved the file as ‘CSV UTF 8’ file.
+    -	Changed the datatype of the columns to ‘VARCHAR’.
 This allowed for smooth loading of the table.
 3.	We added the following columns;
-    a)	brand_name (represents the phone brand)
-    b)	phone_name (each phones name only) – trimmed to maximum of 30 characters.
-    c)	phone_ROM (each phone’s ROM if available)
-    d)	phone_RAM (each phone’s RAM if available)
-    e)	row_id (to make each row unique)
+    -	brand_name (represents the phone brand)
+    -	phone_name (each phones name only) – trimmed to maximum of 30 characters.
+    -	phone_ROM (each phone’s ROM if available)
+    -	phone_RAM (each phone’s RAM if available)
+    -	row_id (to make each row unique)
 4.	We have about 412 rows of phone listings from different stores (sellers). But during deduplication, we keep getting some listed as duplicates despite rating_reviews showing different ratings (pertaining to the seller). So, we decided to identify each row with a store name. Since the objective is to get the best phone as regards the Phone name, brand, price, RAM and ROM, we carried on despite the fact that different phones can be listed by the same seller or store.
-We used the following code:
 
 5.	We removed any row which any of these columns were not containing any value;
-    a)	brand_name
-    b)	phone_RAM
-    c)	phone_ROM
+    -	brand_name
+    -	phone_RAM
+    -	phone_ROM
 
 6.	The extracted columns and rows in the data were placed in an SQL view, known as view_cleaned_jumia_phones.
+
+### VALIDITY AND QAULITY CHECKS
+We need the following columns for our analysis;
+1.	row_id
+2.	brand_name
+3.	phone_name
+4.	phone_price
+5.	phone_ROM
+6.	phone_RAM
+And they’re all available.
+We’ll be performing the following validity and compliance checks;
+
+ROW COUNT
+
 
 
 
