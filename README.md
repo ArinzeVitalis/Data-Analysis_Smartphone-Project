@@ -152,6 +152,9 @@ And they’re all available.
 <br>
 
 <ins>DUPLICATE CHECK</ins>
+
+We ran a duplicate check on the main table (jumia_phone_staging) where we confirmed that we had listings from different sellers. We added a tag to represent each unique poster/seller.
+
 ![DUPLICATE CHECK]()
 <br>
 
@@ -187,13 +190,26 @@ For this analysis, we need to focus on the following questions;
   5.	Which phones give the best value for money in terms of Brand, ROM and RAM?
 
 From our Dataset, we have;
-Phones brands listed
+
+<ins>1. Phones brands listed</ins>
+
 We have about 35 different Phone brands in the phone listing
 
 ![Phones brands listed](assets/images/Distinct Brand names 1.png)
 ![Phones brands listed](assets/images/Distinct Brand names 2.png)
 <br>
 
+<ins>2.	Top 5 brands in the listing</ins>
+![Top 5 brands in the listing](assets/images/Top 5 Brands.png)
+<br>
+
+<ins>3.	Phone RAM in the category (less than or equal to 450k)</ins>
+![Phone RAM in the category (less than or equal to 450k)](assets/images/Phone RAM (within 450k).png)
+<br>
+
+<ins>4.	Phone ROM in the category (less than or equal to 450k)</ins>
+![Phone ROM in the category (less than or equal to 450k)](assets/images/Phone ROM (within 450k).png)
+<br>
 
 <br>
 
