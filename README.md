@@ -89,15 +89,14 @@ What we need;
 We used Power Query to access the Jumia Official webpage to extract the data from the site.
 
 
-'''
-POWER QUERY
-let
-    Pages = List.Numbers(6, 25),
-    Tables = List.Transform(Pages, each fnJumiaPage(_)),
-    Combined = Table.Combine(Tables)
-in
-    Combined
-'''
+		POWER QUERY CODE
+		let
+		    Pages = List.Numbers(6, 25),
+		    Tables = List.Transform(Pages, each fnJumiaPage(_)),
+		    Combined = Table.Combine(Tables)
+		in
+		    Combined
+
 
 ### DATA EPLORATION
 Data exploration notes;
