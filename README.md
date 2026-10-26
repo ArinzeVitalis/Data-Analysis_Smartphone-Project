@@ -5,16 +5,16 @@ This project applies Excel, SQL, and Power BI to analyze smartphone listings fro
 <br>
 
 ## TABLE OF CONTENTS
-- #### [Project Scope](#project_scope)
-  - [Evaluation of Problem](#evaluation_of_problem)
+- #### [Project Scope](#scope)
+  - [Evaluation of Problem](#evaluation)
   - [Objective](#objective)
-- #### [Data Identification](#Data_Identification)
-  - [Data Sources](#data_sources)
+- #### [Data Identification](#identification)
+  - [Data Source](#source)
   - [Data Availability & Compliance Checks](#data_availability_&_compliance_checks)
-- #### [Data Acquisition & Extraction](#Data Acquisition & Extraction)
-  - [Collection & Extraction](#Collection & Extraction)
-  - [Data Exploration](#Data Exploration)
-  - [Data Cleaning](#Data Cleaning)
+- #### [Data Acquisition & Extraction](#data_acquisition_&_extraction)
+  - [Data Collection](#data_collection)
+  - [Data Exploration](#data_exploration)
+  - [Data Cleaning Notes](#data_cleaning_notes)
   - [Validation & Quality Checks](#Validation & Quality Checks)
 - #### [Visualization](#Visualization)
   - [Results](#results)
@@ -84,7 +84,7 @@ What we need;
 
 <br>
 
-## DATA ACQUISITION & PREPARATION
+## DATA ACQUISITION & EXTRACTION
 ### DATA COLLECTION
 We used Power Query to access the Jumia Official webpage to extract the data from the site.
 
@@ -98,7 +98,7 @@ We used Power Query to access the Jumia Official webpage to extract the data fro
 		    Combined
 
 
-### DATA EPLORATION
+### DATA EXPLORATION
 Data exploration notes;
 1.	Contains 412 rows
 2.	Has 10 columns 
