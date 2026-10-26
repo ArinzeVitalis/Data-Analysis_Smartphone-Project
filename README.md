@@ -5,12 +5,12 @@ This project applies Excel, SQL, and Power BI to analyze smartphone listings fro
 <br>
 
 ## TABLE OF CONTENTS
-- #### [Project Scope](#scope)
-  - [Evaluation of Problem](#evaluation)
+- #### [Project Scope](#project-scope)
+  - [Evaluation of Problem](#evaluation-of-problem)
   - [Objective](#objective)
-- #### [Data Identification](#identification)
-  - [Data Source](#source)
-  - [Data Availability & Compliance Checks](#data_availability_&_compliance_checks)
+- #### [Data Identification](#data-identification)
+  - [Data Source](#data-source)
+  - [Data Availability & Compliance Checks](#data-availability-&-compliance-checks)
 - #### [Data Acquisition & Extraction](#data_acquisition_&_extraction)
   - [Data Collection](#data_collection)
   - [Data Exploration](#data_exploration)
